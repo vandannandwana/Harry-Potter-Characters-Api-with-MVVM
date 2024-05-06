@@ -12,6 +12,7 @@ https://hp-api.onrender.com/api/characters
 
 # Dark Mode Screen
 
+<img src="https://github.com/vandannandwana/Harry-Potter-Characters-Api-with-MVVM/assets/144916127/6a365ece-835e-4410-af87-8a9d320b6972" alt="dark_two" width="200">
+
 <img src="https://github.com/vandannandwana/Harry-Potter-Characters-Api-with-MVVM/assets/144916127/11a6b1b8-011c-4cbc-8d1b-e86ec3279595" alt="dark_one" width="200">
 
-<img src="https://github.com/vandannandwana/Harry-Potter-Characters-Api-with-MVVM/assets/144916127/6a365ece-835e-4410-af87-8a9d320b6972" alt="dark_two" width="200">
